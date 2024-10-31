@@ -49,3 +49,8 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
+[[menu.main]]
+name = "Life"
+url = "https://www.chens.life/"
+weight = 5
+
