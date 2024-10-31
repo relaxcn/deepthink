@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Think what you think, do what you do."
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
-
+ 
 [[params.social]]
 name = "GitHub"
 icon = "github"
